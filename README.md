@@ -1,7 +1,9 @@
 ## Fantasy Radar 
 ------------------------------  
-![Fantasy Radar](https://github.com/elmi-/FantasyRadar/blob/master/app/docs/fantasyradar.PNG)
 Fantasy sports web app built using Ruby on Rails that sends text notifications to users to stay up to date on specific player news/updates.
+
+### Screenshot
+![Fantasy Radar](https://github.com/elmi-/FantasyRadar/blob/master/app/docs/fantasyradar.PNG)
 
 ### Project Setup
 * Use Ruby version
