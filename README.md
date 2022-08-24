@@ -1,7 +1,7 @@
 ## Fantasy Radar 
 ------------------------------  
 
-In fantasy sports, a participant has to check the teams or free agents list to find player updates. This application sends out notifications to the users about updates of their subscribed players.  
+Fantasy sports web app built using Ruby on Rails that sends text notifications to users to stay up to date on specific player news/updates.
 
 ### Project Setup
 * Use Ruby version
