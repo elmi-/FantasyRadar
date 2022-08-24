@@ -38,6 +38,22 @@ html, body {
   color: #000;
 }
 
+.container {
+  display: flex;
+  flex-direction: column;
+  padding: 0;
+  margin: 30px auto;
+}
+
+.player-container {
+  display: flex;
+  flex-direction: row-reverse;
+}
+
+.latest-news {
+  width: 80%;
+}
+
 /*---Media Queries --*/
 @media (max-width: 992px) {
 
