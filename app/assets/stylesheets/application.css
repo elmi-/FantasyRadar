@@ -26,6 +26,7 @@ html, body {
   display: flex;
   align-items: center;
   flex-direction: row;
+  margin: 0 auto;
 }
 
 .navbar-logo > * {
@@ -57,7 +58,6 @@ html, body {
   }
 }
 @media (max-width: 576px) {
-  
 }
 
 
